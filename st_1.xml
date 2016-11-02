@@ -1,18 +1,8 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="controls_repeat" id="154" inline="true" x="177" y="28">
     <value name="TIMES">
-      <block type="math_arithmetic" id="161" inline="true">
-        <field name="OP">ADD</field>
-        <value name="A">
-          <block type="math_number" id="168">
-            <field name="NUM">2</field>
-          </block>
-        </value>
-        <value name="B">
-          <block type="math_number" id="223">
-            <field name="NUM">2</field>
-          </block>
-        </value>
+      <block type="math_number" id="230">
+        <field name="NUM">4</field>
       </block>
     </value>
     <statement name="DO">
